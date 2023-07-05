@@ -1,2 +1,6 @@
 # competitive-programming
-competitive programming
+
+```
+cd answer
+pipenv shell
+```
