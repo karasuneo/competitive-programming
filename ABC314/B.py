@@ -17,8 +17,6 @@ for i in range(N):
 X = int(input())
 
 
-# print(data_list)
-
 # 入力をもとに作成した辞書型の配列を操作して、betにXが含まれている辞書型を探す
 for index, dl in enumerate(data_list):
     for bet in dl["bet"]:
