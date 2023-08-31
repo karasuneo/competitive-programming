@@ -44,4 +44,3 @@ for i in range(N):
 
 # 最終的な答えを出力
 print(ans)
-
